@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/yvqmf675l4rew8j5?svg=true)](https://ci.appveyor.com/project/VMoiseev/ra-list-of-proposals)
+## [Проект](https://vmoiseev.github.io/ra-list-of-proposals/)
 Список предложений
 ===
 

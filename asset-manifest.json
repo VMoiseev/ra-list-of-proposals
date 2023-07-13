@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-list-of-proposals/static/css/main.af0f2e56.css",
+    "main.js": "/ra-list-of-proposals/static/js/main.d1b04399.js",
+    "index.html": "/ra-list-of-proposals/index.html",
+    "main.af0f2e56.css.map": "/ra-list-of-proposals/static/css/main.af0f2e56.css.map",
+    "main.d1b04399.js.map": "/ra-list-of-proposals/static/js/main.d1b04399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af0f2e56.css",
+    "static/js/main.d1b04399.js"
+  ]
+}
